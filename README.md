@@ -62,11 +62,6 @@ Future Improvements
 .Connect with database for real bookings
 .Add payment gateway
 
-Contributing
-
-Contributions are welcome!
-Feel free to fork this repository and improve the project.
-
 Author:
 Pavithra
 This project created only for educational purposes.
