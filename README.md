@@ -4,14 +4,21 @@ A simple Travel and Tourism Website built using HTML.
 This project contains multiple pages including a home page, login page, places page, and booking page.
 
 Features
+
 .Attractive Home Page
+
 .User Login Page
+
 .Tourist Places Information Page
+
 .Travel Booking Page
+
 .Simple and beginner-friendly HTML structure
+
 .Easy to customize
 
 Project Structure
+
 travel-tourism/
 │
 ├── index.html        
