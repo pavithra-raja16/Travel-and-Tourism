@@ -30,24 +30,29 @@ travel-tourism/
 Pages Description
 
 1. Home Page (index.html)
+
 Main landing page of the website
 Contains navigation bar, welcome section, and featured destinations
 
 2. Login Page (login.html)
+   
 User authentication form
 Includes username/email and password fields
 
 3. Places Page (places.html)
+   
 Displays famous tourist destinations
 Includes images and short descriptions
 
 4. Booking Page (booking.html)
+   
 Allows users to book travel packages
 Contains booking form with user details
 
 Technologies Used
 
 .HTML5
+
 .CSS
 
 Installation & Setup
@@ -59,20 +64,18 @@ cd travel-tourism
 Step 3: Run the Project
 Open index.html in your browser.
 
-Output Example
-Page	Description
-Home Page-Main travel website page
-Login Page-User authentication page
-Places Page-Tourist destinations display
-Booking Page-Travel package booking form
-
 Future Improvements
+
 .Add responsive design using Bootstrap
+
 .Add JavaScript functionality
+
 .Connect with database for real bookings
+
 .Add payment gateway
 
 Author:
+
 Pavithra
 
 This project is created for educational purposes and web development practice.
