@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Booking</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial;
+
+    
+    background: url("367e5458-6d2b-4f60-9b5f-27b4540615e4.tmp") no-repeat center/cover;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.95);
+    padding: 30px;
+    width: 350px;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+input {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    background: black;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: rgb(111, 184, 226);
+}
+
+p {
+    margin-top: 10px;
+    font-size: 20px;
+    color: gray;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h2>Booking Form</h2>
+
+<form action="success.html">
+
+    <input type="text" placeholder="First Name" required>
+    <input type="text" placeholder="Last Name" required>
+
+    <input type="email" placeholder="Email" required>
+    <input type="tel" placeholder="Phone Number" required>
+
+    <input type="date" required>
+    <input type="time" required>
+
+    <button type="submit">Confirm Booking</button>
+
+</form>
+
+<p>Fill all details correctly</p>
+
+</div>
+
+</body>
+</html>

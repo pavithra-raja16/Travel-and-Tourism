@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Login</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial;
+    background: url("367e5458-6d2b-4f60-9b5f-27b4540615e4.tmp") no-repeat center/cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 30px;
+    width: 300px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 10px gray;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button:hover {
+    background: rgb(111, 184, 226);
+}
+
+a {
+    display: block;
+    margin-top: 15px;
+    text-decoration: none;
+    color: blue;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <h2>Login</h2>
+
+    <form onsubmit="login(event)">
+        <input type="text" placeholder="Username" required>
+        <input type="password" placeholder="Password" required>
+
+        <button type="submit">Submit</button>
+    </form>
+
+    <a href="index.html">Back to Home</a>
+
+</div>
+
+<script>
+function login(e){
+    e.preventDefault();
+
+    // redirect to places page
+    window.location.href = "places.html";
+}
+</script>
+
+</body>
+</html>
