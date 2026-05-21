@@ -41,15 +41,15 @@ Page Description
  * Main landing page of the website
  * Contains navigation bar,welcome section, and featured destinations
 
-2.Login Page(login.html)
+2. Login Page(login.html)
  * User authentication form
  * Includes username/email and password fields
 
-3.Places Page(places.html)
+3. Places Page(places.html)
  * Displays famous tourist destination
  * Includes Images and short description
 
-4.Booking Page(booking.html)
+4. Booking Page(booking.html)
  * Allow users to book travel packages
  * Contains booking form with user details
  
