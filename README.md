@@ -1,6 +1,7 @@
 Travel and Tourism Website
 
 A simple Travel and Tourism Website built using HTML.
+
 This project contains multiple pages including a home page, login page, places pafe, booking page.
 
 Features
@@ -39,12 +40,15 @@ Page Description
 1. Home Page(index.html)
  * Main landing page of the website
  * Contains navigation bar,welcome section, and featured destinations
+
 2.Login Page(login.html)
  * User authentication form
  * Includes username/email and password fields
+
 3.Places Page(places.html)
  * Displays famous tourist destination
  * Includes Images and short description
+
 4.Booking Page(booking.html)
  * Allow users to book travel packages
  * Contains booking form with user details
@@ -54,7 +58,7 @@ Installation & Setup
 
  Step 1: Clone the repository
 
-git clone https://github.com/pavithra-raja16/Spam-Detection
+git clone https://github.com/pavithra-raja16/Travel-and-Tourism
 cd spam-detection
 
 Step 2: Open Project Folder
@@ -76,4 +80,4 @@ Author
 
 Pavithra
 
-This project is created for educational purposes and demonstrates bas
+This project is created for educational purposes and demonstrates base
