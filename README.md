@@ -46,15 +46,25 @@ Allows users to book travel packages
 Contains booking form with user details
 
 Technologies Used
+
 .HTML5
 .CSS
 
-How to Run the Project
-i)Download or clone the repository
-git clone: https://github.com/pavithra-raja16/Travel-and-Tourism/edit/main/README.md
+Installation & Setup
 
-ii)Open the project folder
-Run index.html in your browser
+Step 1: Clone the Repository
+git clone 
+Step 2: Open Project Folder
+cd travel-tourism
+Step 3: Run the Project
+Open index.html in your browser.
+
+Output Example
+Page	Description
+Home Page-Main travel website page
+Login Page-User authentication page
+Places Page-Tourist destinations display
+Booking Page-Travel package booking form
 
 Future Improvements
 .Add responsive design using Bootstrap
@@ -64,4 +74,5 @@ Future Improvements
 
 Author:
 Pavithra
-This project created only for educational purposes.
+
+This project is created for educational purposes and web development practice.
